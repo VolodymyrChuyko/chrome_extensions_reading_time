@@ -1,4 +1,4 @@
-#Reading time
+# Reading time
 
 This extension adds the expected reading time to any Chrome extension and Chrome Web Store documentation page.
 
